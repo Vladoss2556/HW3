@@ -1,0 +1,32 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    color: green;
+    font-weight: 700;
+}
+
+#mainTitle{
+    color: purple;
+}
+
+.default-text{
+color:brown;
+}
+
+input[required]{
+ border-color: blue;
+}
+
+.custom-text{
+color: red;
+}
+
+.start-text{
+color: aqua;
+}
+
+p span{
+    color: yellow;
+}
